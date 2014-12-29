@@ -1,0 +1,9 @@
+/.target/
+.classpath
+.project
+.sass-cache
+.settings
+logs
+project/project
+project/target
+target
